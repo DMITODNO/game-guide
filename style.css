@@ -13,7 +13,7 @@
   margin: 0px;
   width: 100%;
   position: fixed;
-  background: url("http://api.thumbr.it/whitenoise-361x370.png?background=000000ff&noise=626262&density=84&opacity=32");
+  background #000;
   border-bottom: 2px solid rgb(255, 167, 3);
   height: 40px;
   z-index: 2;
