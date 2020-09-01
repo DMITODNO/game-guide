@@ -23,7 +23,10 @@ body {
 .dropdown-item:hover {
   background: rgb(255, 167, 3);
 }
-
+.character {
+  height: 350px;
+  width: 350px;
+}
 h1 {
   font-family: "Germania One", cursive;
   color: rgb(255, 167, 3);
